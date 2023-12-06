@@ -9,9 +9,9 @@ This is a collection of Induction motor(asychonous motor) controlling methods si
 
 ## Simulation model
 
-### [Direct Torque Control (DTC)](Project\DTC\DTC.slx)
+### [Direct Torque Control (DTC)](Project/DTC/DTC.slx)
 
-### [Field Oriented Control (FOC)](Project\FOC\foc.slx)
+### [Field Oriented Control (FOC)](Project/FOC/foc.slx)
 
 ### [Vary Voltage Vary Frequency Control (VVVF)](Project/VVVF)
 
